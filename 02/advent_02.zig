@@ -12,7 +12,6 @@
 
 // HOW TO RUN THIS:
 // Download your puzzle input from adventofcode.com/2024/day/2 to the file input.txt
-// You can also use input.txt.example by removing the .example extension
 // or changing this global variable here:
 const filename = "input.txt";
 const INT_BUF_SIZE = 10;
