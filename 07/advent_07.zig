@@ -11,7 +11,7 @@
 //      OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 // HOW TO RUN THIS:
-// Download your puzzle input from adventofcode.com/2024/day/6 to the file input.txt
+// Download your puzzle input from adventofcode.com/2024/day/7 to the file input.txt
 // or changing this global variable here
 const filename = "input.txt";
 
